@@ -9,14 +9,15 @@
 
 ### About me
 
-- 🎓 I'm currently a student, eager to learn and expand my knowledge in the field of software development.
-- 🌟 I'm 17 years old and enthusiastic about building innovative solutions.
+- 🎓 I'm currently a student, eager to learn and expand my knowledge in software development.
+- 🌟 I'm 18 years old and enthusiastic about building innovative solutions.
 - 💻 I'm fluent in the following technologies and languages: HTML, CSS, JavaScript, Firebase, Python, Node.js, and MySQL.
 - 🌐 You can visit my [website](https://nivet2006.vercel.app).
-- I'm constantly exploring new technologies and expanding my skill set. Stay tuned for updates on my latest projects and contributions.
+- I'm constantly exploring new technologies and expanding my skill set.
+- Stay tuned for updates on my latest projects and contributions.
 
 
-Feel free to reach out to me via email at nivedshaji@outlook.com. I'm always open to collaboration and opportunities to learn from others in the developer community.
+Feel free to email me at nivedshaji2006@gmail.com. I'm always open to collaboration and learning opportunities from others in the developer community.
 
 Thank you for visiting my GitHub profile. Happy coding!
 
@@ -48,8 +49,3 @@ Thank you for visiting my GitHub profile. Happy coding!
 nived-dev/nived-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-<!--eggexp.vercel.app-->
-
-eggexp.vercel.app
